@@ -1,3 +1,5 @@
 opencv-python
 numpy
 imutils
+shapely
+python-telegram-bot
